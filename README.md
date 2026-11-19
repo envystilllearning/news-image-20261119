@@ -1,5 +1,10 @@
 # The World in One Day — Thursday 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/envystilllearning/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/envystilllearning/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+
 A single 1024×1024 newspaper poster summing up the world's news of
 Thursday 19 November 2026. Every story on the page happened, or was first
 reported, on that day, in any time zone. The poster is rendered by
@@ -105,3 +110,7 @@ sources named in the footer (Rockstar Support, PlayStation Blog, Reuters,
 AP, NASA, The Hindu, Le Monde, TradingView, MarketWatch, Inc.com,
 cricbuzz, Times of India, and others); market briefs use 18 Nov closes as
 reported on the morning of 19 Nov.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=eghbj5ek&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
